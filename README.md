@@ -3,7 +3,7 @@
 Welcome to my Portfolio of private projects.
 
 ## 📚 Table of Contents
-[python](#python-projects)
+- [Python](#python-projects)
 
 #Python projects
 | Project Link | Area | Project Description | Libraries | 
