@@ -10,4 +10,4 @@ Welcome to my Portfolio! Here i document a summary of my projects.
 |---|---|---|---|
 | 📖 [GoodReads Analysis](https://github.com/korayyildirim/DataAnalysisProjects/blob/main/explore.ipynb) | Data Wrangling, EDA, NLP & ML | Analysis of Goodreads Data Set(link). Using common NLP techniques for handling text data. Training a model to estimate if book will be popular or not. | pandas, matplotlib ,sklearn & nltk |
 | 📰 [Fake News Classification](https://github.com/korayyildirim/DataAnalysisProjects/blob/main/fakenewsrealnews.ipynb) | EDA, NLP & ML | Training a model to distinguish between fake and real news. | pandas, matplotlib ,sklearn & nltk |
-| 🐱‍🐉 [Dinosour Dataset EDA] (ongoing) | EDA | Exploring the dinosour dataset | pandas, matplotlib ,sklearn & nltk |
+| 🐱‍🐉 [Dinosaur Genera Dataset EDA](https://github.com/korayyildirim/DataAnalysisProjects/blob/main/dinosaurEDA.ipynb) (ongoing) | EDA | Exploring the dinosour dataset | pandas, matplotlib  & nltk |
