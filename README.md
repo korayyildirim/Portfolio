@@ -1,6 +1,6 @@
 # 🗺 Koray's Portfolio
 
-Welcome to my Portfolio! Here i document a summary of my projects.
+Welcome to my Portfolio! Here i'm building a collection of my projects.
 
 ## 📚 Table of Contents
 - [Python](#python-projects)
