@@ -14,5 +14,6 @@ Welcome to my Portfolio! Here i'm building a collection of my projects.
 | 🕴 [Employee Attrition & Retention Analysis and Prediction](https://github.com/korayyildirim/DataAnalysisProjects/blob/main/employeeAttrition.ipynb)  | EDA & ML | Analysis of the Employee Attrition Dataset and training models to predict attrition. | pandas,sklearn & matplotlib/seaborn |
 | 📖 [Book Recommendation System](https://github.com/korayyildirim/DataAnalysisProjects/blob/main/bookRecommendation.ipynb)  | Data Engineering | Get recommendations based on user or book data using collaborive filtering. | pandas & sklearn |
 | 💼 [Churn Prediction](https://github.com/korayyildirim/DataAnalysisProjects/blob/main/Churn_Data_Prediction.ipynb)  | ML | Training a Classifier to recognize customer churn, with parameter tuning. | pandas, sklearn & XGBoost |
+| 💼 [Sports Image Classifier](https://github.com/korayyildirim/DataAnalysisProjects/blob/main/SportClassification.ipynb)  | DL | Training a Image Classifier form scratch to recognize 100 sports from images | PyTorch |
 
 
