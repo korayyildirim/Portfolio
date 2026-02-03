@@ -18,7 +18,7 @@ Welcome to my Portfolio! Here i'm building a collection of my projects.
 | 💼 [Sports Image Classifier](https://github.com/korayyildirim/DataAnalysisProjects/blob/main/SportClassification.ipynb)  | DL | Training a Image Classifier form scratch to recognize 100 sports from images | PyTorch |
 
 
-## 🐍 [Python Projects](https://github.com/korayyildirim/PythonProjects)
+## 🐍[Python Projects](https://github.com/korayyildirim/PythonProjects)
 | Project Link | Area | Project Description | Libraries | 
 |---|---|---|---|
 | 📨 [Email Analysis](https://github.com/korayyildirim/PythonProjects) | Data Analysis, NLP | Get Acces to clean email data for further analysing | BeatifulSoup & Imap |
