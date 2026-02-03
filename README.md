@@ -4,9 +4,9 @@ Welcome to my Portfolio! Here i'm building a collection of my projects.
 
 ## 📚 Table of Contents
 - [Data Science Projects](#data-science-projects)
-- [Python](#python-projects)
+- [Python Projects](#python-projects)
 
-## 📊Data Science Projects
+## 📊[Data Science Projects](https://github.com/korayyildirim/DataAnalysisProjects)
 | Project Link | Area | Project Description | Libraries | 
 |---|---|---|---|
 | 📖 [GoodReads Analysis](https://github.com/korayyildirim/DataAnalysisProjects/blob/main/explore.ipynb) | Data Wrangling, EDA, NLP & ML | Analysis of Goodreads Data Set. Using common NLP techniques for handling text data. Training a model to estimate if book will be popular or not. | pandas, matplotlib/seaborn ,sklearn & nltk |
@@ -18,7 +18,7 @@ Welcome to my Portfolio! Here i'm building a collection of my projects.
 | 💼 [Sports Image Classifier](https://github.com/korayyildirim/DataAnalysisProjects/blob/main/SportClassification.ipynb)  | DL | Training a Image Classifier form scratch to recognize 100 sports from images | PyTorch |
 
 
-## 🐍 Python Projects 
+## 🐍 [Python Projects](https://github.com/korayyildirim/PythonProjects)
 | Project Link | Area | Project Description | Libraries | 
 |---|---|---|---|
-| 📨 [Email Analysis]((https://github.com/korayyildirim/PythonProjects)) | Data Analysis, NLP | Get Acces to clean email data for further analysing | BeatifulSoup & Imap |
+| 📨 [Email Analysis](https://github.com/korayyildirim/PythonProjects) | Data Analysis, NLP | Get Acces to clean email data for further analysing | BeatifulSoup & Imap |
