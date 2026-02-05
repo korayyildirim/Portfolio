@@ -21,4 +21,4 @@ Welcome to my Portfolio! Here i'm building a collection of my projects.
 ## 🐍[Python Projects](https://github.com/korayyildirim/PythonProjects)
 | Project Link | Area | Project Description | Libraries | 
 |---|---|---|---|
-| 📨 [Email Analysis](https://github.com/korayyildirim/PythonProjects) | Data Analysis, NLP | Get Acces to clean email data for further analysing | BeatifulSoup & Imap |
+| 📨 [Email Analysis](https://github.com/korayyildirim/PythonProjects/tree/main/EmailAnalyser) | Data Analysis, NLP | Get Acces to clean email data for further analysing | BeatifulSoup & Imap |
